@@ -24,6 +24,9 @@ REST API for sentiment analysis using DistilBERT. Live and accessible to anyone.
 [Bike Brand Classifier API](https://bike-classifier-api-production.up.railway.app/docs)
 REST API for bike brand classification using ResNet34. Live and accessible to anyone.
 
+[EDA Toolkit](https://github.com/aarekhrijal/eda-toolkit)
+Automated Exploratory Data Analysis tool that generates missing value reports, statistical summaries, distribution plots, and correlation matrices for any CSV dataset.
+
 ## 🛠️ Tech Stack
 Python • PyTorch • fastai • Hugging Face Transformers • XGBoost • Pandas • NumPy
 
