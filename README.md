@@ -1,6 +1,6 @@
 # Hi, I'm Aarekh 👋
 
-Aspiring ML Engineer based in Kathmandu, Nepal. Building practical machine learning projects and learning to solve real-world problems with AI.
+ML Engineer based in Kathmandu, Nepal. Building practical machine learning projects and learning to solve real-world problems with AI.
 
 ## 🚀 Projects
 
@@ -15,6 +15,14 @@ Image classifier identifying motorcycle brands (Honda/Yamaha/KTM) using deep lea
 
 ### [Sentiment Analyzer](https://github.com/aarekhrijal/sentiment-analyzer)
 Sentiment analysis on movie reviews using fine-tuned DistilBERT. 88.4% accuracy.
+
+## 🌐 Live Deployed APIs
+
+[Sentiment Analysis API](https://web-production-d67eda.up.railway.app/docs)
+REST API for sentiment analysis using DistilBERT. Live and accessible to anyone.
+
+[Bike Brand Classifier API](https://bike-classifier-api-production.up.railway.app/docs)
+REST API for bike brand classification using ResNet34. Live and accessible to anyone.
 
 ## 🛠️ Tech Stack
 Python • PyTorch • fastai • Hugging Face Transformers • XGBoost • Pandas • NumPy
